@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](http://imgs-info.ru/2019/10/01/1111.png)
+![Product Name Screen Shot](https://i.ibb.co/V9H16n4/web-temp.jpg)
 
 This project is the official web page of SLIIT Gaming Community.SLIIT Gaming community ,SLIITGC in short is the e-sports gaming club of Sri Lanka Institute of Information Technology.
 
