@@ -122,16 +122,16 @@ Project Link: [https://github.com/SLIIT-GC/Official-web-page](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/SLIIT-GC/Official-web-page.svg?style=flat-square
-[contributors-url]: https://github.com/SLIIT-GC/Official-web-page/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SLIIT-GC/Official-web-page
-[forks-url]: https://github.com/SLIIT-GC/Official-web-page/network/members
-[stars-shield]: https://img.shields.io/github/stars/SLIIT-GC/Official-web-page.svg?style=flat-square
-[stars-url]: https://github.com/SLIIT-GC/Official-web-page/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SLIIT-GC/Official-web-page.svg?style=flat-square
-[issues-url]: https://github.com/SLIIT-GC/Official-web-page/issues
-[license-shield]: https://img.shields.io/github/license/SLIIT-GC/Official-web-page.svg?style=flat-square
-[license-url]: https://github.com/SLIIT-GC/Official-web-pageblob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/SLIIT-GC/SLIIT-GC-Web.svg?style=flat-square
+[contributors-url]: https://github.com/SLIIT-GC/SLIIT-GC-Web/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SLIIT-GC/SLIIT-GC-Web
+[forks-url]: https://github.com/SLIIT-GC/SLIIT-GC-Web/network/members
+[stars-shield]: https://img.shields.io/github/stars/SLIIT-GC/SLIIT-GC-Web.svg?style=flat-square
+[stars-url]: https://github.com/SLIIT-GC/SLIIT-GC-Web/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SLIIT-GC/SLIIT-GC-Web.svg?style=flat-square
+[issues-url]: https://github.com/SLIIT-GC/SLIIT-GC-Web/issues
+[license-shield]: https://img.shields.io/github/license/SLIIT-GC/SLIIT-GC-Web.svg?style=flat-square
+[license-url]: https://github.com/SLIIT-GC/SLIIT-GC-Webblob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter)
