@@ -45,27 +45,29 @@ This project is the official web page of SLIIT Gaming Community.SLIIT Gaming com
 * [Bootstrap](https://getbootstrap.com)
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 * [php](https://www.php.net/)
+* [JavaScript](https://www.javascript.com/)
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You will have to run this project in a php enivronment.
+You will have to run this project in a php/JS enivronment.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* php
+* php $ JS
 ```sh
 apt-get install php
 ```
+[Install npm](https://websiteforstudents.com/install-the-latest-node-js-and-nmp-packages-on-ubuntu-16-04-18-04-lts/)
 
 ### Installation
 
 1. Clone the repository
 ```sh
-git clone https:://github.com/SLIIT-GC/Official-web-page.git
+git clone https:://github.com/SLIIT-GC/SLIIT-GC-Web.git
 ```
     
 
@@ -79,7 +81,7 @@ You can use this templates in your own projects.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/SLIIT-GC/Official-web-page/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/SLIIT-GC/SLIIT-GC-Web/issues) for a list of proposed features (and known issues).
 
 
 
