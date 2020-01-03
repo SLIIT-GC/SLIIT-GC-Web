@@ -2556,9 +2556,9 @@ input:required {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 25%;
     flex: 0 0 25%;
-    max-width: 25%;
-    width: 25%;
-    height: 240px;
+    max-width: 50%;
+    width: 50% ;
+    height: 200px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -2583,7 +2583,8 @@ input:required {
       -webkit-transition-duration: 300ms;
       -o-transition-duration: 300ms;
       transition-duration: 300ms;
-      max-height: 110px;
+      max-height: 220px;
+      max-width: 250px;
       opacity: 0.5; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .our-sponsor-area .single-sponsor a img {
