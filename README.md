@@ -57,7 +57,7 @@ You will have to run this project in a php/JS enivronment.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* php $ JS
+* php & JS
 ```sh
 apt-get install php
 ```
@@ -96,6 +96,13 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Contributors
+
+<a href="https://github.com/SLIIT-GC/SLIIT-GC-Web/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=SLIIT-GC/SLIIT-GC-Web" />
+</a>
+
+Made with [contributors-img](https://contributors-img.web.app).
 
 
 <!-- LICENSE -->
